@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respon",
+				"responseBody"
+			],
+			[
+				"getn",
+				"getNumberErrors"
+			],
+			[
+				"sendver",
+				"sendVerificationsDue"
+			],
+			[
+				"sendVerf",
+				"sendVerificationText"
+			],
+			[
+				"current",
+				"currentDate"
+			],
+			[
+				"curren",
+				"currentDate"
+			],
+			[
+				"alread",
+				"alreadySent"
+			],
+			[
+				"send",
+				"sendRandomPicRetries"
+			],
+			[
+				"sendr",
+				"sendRandomPic"
+			],
+			[
+				"sen",
+				"sendRandomPicRetries"
+			],
+			[
+				"setmin",
+				"setMinutes"
+			],
+			[
+				"cutoff",
+				"cutoffDate"
+			],
+			[
+				"cutof",
+				"cutoffDate"
+			],
+			[
+				"sendCut",
+				"sendCutoffPm"
+			],
+			[
+				"minutes",
+				"minutesLeft"
+			],
+			[
+				"minu",
+				"minutesLeft"
+			],
+			[
+				"curr",
+				"CurrentUserId"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"phon",
+				"phoneNumberOk"
+			],
+			[
+				"picturenu",
+				"pictureNumber"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"account",
+				"accountSid"
+			],
+			[
+				"pi",
+				"pictureNumberInAlbum"
+			],
+			[
+				"picturenum",
+				"pictureNumberInAlbum"
+			],
+			[
+				"pic",
+				"pictureNumberInAlbum"
+			],
+			[
+				"picture",
+				"pictureNumberInAlbum"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"cell",
+				"cellRegex"
+			],
+			[
+				"user",
+				"userSettings"
+			],
+			[
+				"currn",
+				"currentAlbumPicCount"
+			],
+			[
+				"cu",
+				"currentAlbumPicCount"
+			],
+			[
+				"pict",
+				"pictureCount"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"reque",
+				"requestOfflineToken"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"getINst",
+				"getInstagramPicsCount"
+			],
+			[
+				"loadingn",
+				"loadingNextClicked"
+			],
+			[
+				"next",
+				"nextCategory"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"categr",
+				"category"
+			],
+			[
+				"rendere",
+				"renderedCategories"
+			],
+			[
+				"render",
+				"renderedCategories"
+			],
+			[
+				"close",
+				"closedCategories"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"close a",
+				"File: Close All"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"side ",
+				"Side Bar: Refresh"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"sub",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"subm",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Stefan/Documents/Projects/todo"
+	],
+	"file_history":
+	[
+		"/Users/Stefan/Documents/Projects/todo/www/index.html",
+		"/Users/Stefan/Documents/Projects/todo/www/js/app.js",
+		"/Users/Stefan/Documents/Projects/myApp/gulpfile.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/user/settings.js",
+		"/Users/Stefan/Documents/Projects/lovetap/both/router.js",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/footer.html",
+		"/Users/Stefan/Documents/Projects/lovetap/public/lib/intlTelInput_Utils.js",
+		"/Users/Stefan/Documents/Projects/lovetap/settings.json",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/user/settings.html",
+		"/Users/Stefan/Documents/Projects/lovetap/server/accounts.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/user/number.html",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/both/collections.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/layout.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/loading.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/login_menu.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/css/bootswatch-amelia.css",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/Default (OSX).sublime-keymap",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/user/number.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/main.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/contact/contact.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/helpers/toastr.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/css/my.css",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_swapping.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/bh_wrapping.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/lovetap.sublime-project",
+		"/Users/Stefan/Documents/Projects/lovetap/server/publication.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/home/home.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/contact/contact.html",
+		"/Users/Stefan/Documents/Projects/lovetap/server/methods.js",
+		"/Users/Stefan/Documents/Projects/lovetap/server/startup.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/header.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/header.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/about/about.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/home/home.html",
+		"/Users/Stefan/Documents/Projects/lovetap/server/apis/twilio.xml",
+		"/Users/Stefan/Documents/Projects/lovetap/server/apis/twilio.js",
+		"/Users/Stefan/Documents/Projects/lovetap/server/pictures.js",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/CSSLint.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/Stefan/Documents/Projects/lovetap/both/utilities.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/lib/intlTelInput_Utils.js",
+		"/Users/Stefan/Desktop/FontSmoothing",
+		"/Users/Stefan/Documents/Projects/lovetap/lovetap.tar.gz",
+		"/Users/Stefan/Documents/Projects/lovetap/packages/blaze-layout/LICENSE.txt",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/login_menu.html",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/js/application.js",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/js/router.js",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/index.html",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/js/views/edit_todo_view.js",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/js/controllers/todos_controller.js",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/js/controllers/todo_controller.js",
+		"/Users/Stefan/Documents/Projects/ember-tutorial/js/models/todo.js",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/packages/blaze-layout/README.md",
+		"/Users/Stefan/Documents/projects/microscope/client/views/posts/post_submit.js",
+		"/Users/Stefan/Documents/projects/microscope/client/views/comments/comment.js",
+		"/Users/Stefan/Documents/projects/microscope/client/views/comments/comment_submit.js",
+		"/Users/Stefan/Documents/projects/microscope/client/views/posts/post_edit.js",
+		"/Users/Stefan/Documents/projects/microscope/lib/collections/posts.js",
+		"/Users/Stefan/Documents/projects/microscope/lib/collections/comments.js",
+		"/Users/Stefan/Documents/projects/microscope/lib/permissions.js",
+		"/Users/Stefan/Documents/projects/microscope/client/main.html",
+		"/Users/Stefan/Documents/Projects/microscope/client/main.js",
+		"/Users/Stefan/Dropbox/CodeAdventures/LoveTap/S3Keys.csv",
+		"/Users/Stefan/Documents/Projects/lovetap/both/config.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/login_buttons_big.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/login_buttons_big.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/main.html",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/client/helpers/spacebars.js",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Stefan/Documents/Projects/lovetap/client/accounts.js",
+		"/Users/Stefan/Documents/Projects/lovetap/server/apis/instagram.js",
+		"/Users/Stefan/Documents/Projects/lovetap/smart.json",
+		"/Users/Stefan/Documents/Projects/microscope/client/main.html",
+		"/Users/Stefan/Documents/Projects/microscope/client/views/layout.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/main.js",
+		"/Users/Stefan/Documents/Projects/lovetap/smart.lock",
+		"/Users/Stefan/Documents/Projects/lovetap/client/main.html",
+		"/Users/Stefan/Documents/Projects/lovetap/server/server.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/site.css",
+		"/Users/Stefan/Documents/Projects/lovetap/client/index.html",
+		"/Users/Stefan/Documents/Projects/lovetap/client/lib/jquery.maskedinput.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/lib/bootstrap.min.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/routes.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/lib/countUp.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/jslib/countUp.min.js",
+		"/Users/Stefan/Documents/Projects/lovetap/client/booswatch-amelia.css",
+		"/Users/Stefan/Documents/Projects/lovetap/client/jquery.maskedinput.js",
+		"/Users/Stefan/Documents/Projects/pstracker/client/index.html",
+		"/Users/Stefan/Documents/Projects/pstracker/client/css/site.css",
+		"/Users/Stefan/Documents/Projects/pstracker/server/server.js",
+		"/Users/Stefan/Documents/Projects/pstracker/client/main.js",
+		"/Users/Stefan/Documents/Projects/pstracker/collections/collections.js",
+		"/Users/Stefan/Documents/Projects/pstracker/server/courses.js",
+		"/Users/Stefan/Documents/Projects/pstracker/server/publication.js",
+		"/Users/Stefan/Documents/Projects/pstracker/public/fonts/lato/stylesheet.css",
+		"/Users/Stefan/Documents/Projects/pstracker/server/test.js",
+		"/Users/Stefan/Documents/Projects/pstracker/public/fonts/lato/lato-lig-webfont.svg",
+		"/Users/Stefan/Documents/Projects/pstracker/client/css/lib/customcolor.css",
+		"/Users/Stefan/Documents/Projects/pstracker/public/fonts/fontawesome/FontAwesome.otf",
+		"/Users/Stefan/Documents/Projects/pstracker/public/fonts/fontawesome/font-awesome.css",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Stefan/Documents/Projects/pstracker/client/js/lib/bootstrap.min.js",
+		"/Users/Stefan/Documents/Projects/pstracker/client/css/lib/custom.css",
+		"/Users/Stefan/Documents/Projects/pstracker/pstracker.html",
+		"/Users/Stefan/Documents/Projects/pstracker/pstracker.js",
+		"/Users/Stefan/Documents/Projects/pstracker/pstracker.sublime-project",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Stefan/Documents/testproject/asfd/jsakfld.js",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Stefan/Documents/testproject/test.sublime-project"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"open",
+			"fade",
+			"border",
+			"\"",
+			"theme",
+			"enabled",
+			"quote",
+			"single",
+			"quote",
+			"highli",
+			"thanks for your",
+			"services.google",
+			"id=",
+			"login-buttons",
+			"sent",
+			"()){\n",
+			"aasfd",
+			"sweet",
+			"sweet-alert",
+			"js",
+			"there was an error when loading",
+			"-love",
+			"-lovetap",
+			");\n",
+			"self",
+			"last_sent",
+			"getnumber",
+			"getnumberer",
+			"getnumbererrors",
+			"please check",
+			"getnumbererr",
+			".update",
+			"numberstatus.insert",
+			"verificationTextSentOn",
+			"verification",
+			"verifiedon",
+			"cleannumber",
+			"enterednumber",
+			"entered_number",
+			"enterednumber",
+			"cleannumber",
+			"userid",
+			"userId",
+			"sendpicture",
+			"sendpicturewithtwilio",
+			"numberstatus",
+			"user_id",
+			"why not",
+			"there was a pro",
+			"addnumber",
+			"your cellpho",
+			"enterednumber",
+			"entered",
+			"enterednumber",
+			"+1",
+			"getnumber",
+			"number",
+			"addnumberstover",
+			"number",
+			"verification_",
+			"verified_on",
+			"user_id",
+			"number",
+			"cleanNumber",
+			"number",
+			"numberok",
+			"number",
+			"numberok",
+			"phoneNumberok",
+			"allNumbersOk",
+			"allnumbersok",
+			"number",
+			".blur",
+			"preventInvalidNumbers",
+			"favicon",
+			"phonenumberok",
+			"mask",
+			"via love",
+			"numberstatus",
+			"twilio",
+			"numberstatus",
+			"userid",
+			".call",
+			"sendverification",
+			"verifiednumbers",
+			"updatefreq",
+			"verified",
+			"sendverificationtext",
+			"verified",
+			"2100",
+			"sendver",
+			"user.profile.",
+			"sendver",
+			"cell_numbers",
+			"font",
+			"google+",
+			"getalbums",
+			"refreshaccesstoken",
+			"google+",
+			"do you have a ",
+			"didinsert",
+			"template",
+			"/span",
+			"twilio",
+			"settings saved",
+			"twilio",
+			"sendrandompic",
+			"refreshac",
+			"refreshaccesstoken",
+			"getalbums",
+			"updatepiccount",
+			"not showing a",
+			"to show mess",
+			"kadira",
+			"do you have",
+			"fromrange",
+			"accounts-ui",
+			"send me",
+			".navbar",
+			"updatepiccount",
+			"focus",
+			"media",
+			"reload",
+			"8533",
+			"config.js",
+			"..",
+			"meteor.settings",
+			"config."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"picture",
+			"facebook",
+			"flickr",
+			"toMinutes",
+			"data-categoryid",
+			"\"users\": []",
+			"users\": []",
+			"users\": {}",
+			"users: {}",
+			"course-block"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 138.0
+	},
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "todo.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"router",
+				"both/router.js"
+			],
+			[
+				"settin",
+				"client/views/user/settings.js"
+			],
+			[
+				"settings",
+				"client/views/user/settings.js"
+			],
+			[
+				"account",
+				"server/accounts.js"
+			],
+			[
+				"home.js",
+				"client/views/home/home.js"
+			],
+			[
+				"picture",
+				"server/pictures.js"
+			],
+			[
+				"pic",
+				"server/pictures.js"
+			],
+			[
+				"pictures.js",
+				"server/pictures.js"
+			],
+			[
+				"pi",
+				"server/pictures.js"
+			],
+			[
+				"meth",
+				"server/methods.js"
+			],
+			[
+				"metho",
+				"server/methods.js"
+			],
+			[
+				".css",
+				"client/css/my.css"
+			],
+			[
+				"main",
+				"client/views/shared/main.html"
+			],
+			[
+				"loginbut",
+				"client/views/shared/login_buttons_big.html"
+			],
+			[
+				"home",
+				"client/views/home/home.html"
+			],
+			[
+				"loginbu",
+				"client/views/shared/login_buttons_big.js"
+			],
+			[
+				"my.cs",
+				"client/css/my.css"
+			],
+			[
+				".cs",
+				"client/css/my.css"
+			],
+			[
+				"main.",
+				"client/views/shared/main.html"
+			],
+			[
+				"mys",
+				"client/css/my.css"
+			],
+			[
+				"server",
+				"server/server.js"
+			],
+			[
+				"test",
+				"server/test.js"
+			],
+			[
+				"inde",
+				"client/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
