@@ -191,9 +191,29 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 239.0,
+		"height": 205.0,
 		"selected_items":
 		[
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
 			[
 				"user",
 				"Preferences: Settings - User"
@@ -213,10 +233,6 @@
 			[
 				"remove pa",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remo",
@@ -241,10 +257,6 @@
 			[
 				"install ",
 				"Package Control: Install Package"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
 			],
 			[
 				"remove pack",
@@ -307,10 +319,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
 				"au",
 				"Autoprefix CSS"
 			],
@@ -365,16 +373,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Stefan/Documents/Projects/todo"
+		"/Users/Stefan/Documents/Projects/todo",
+		"/Users/Stefan/Documents/Projects/todo/www/css",
+		"/Users/Stefan/Documents/Projects/todo/www/js"
 	],
 	"file_history":
 	[
-		"/Users/Stefan/Documents/Projects/todo/www/index.html",
 		"/Users/Stefan/Documents/Projects/todo/www/js/app.js",
+		"/Users/Stefan/Documents/Projects/todo/www/index.html",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/WININSTALL/Reward_CallIfFound",
+		"/Users/Stefan/Documents/Projects/todo/scss/ionic.app.scss",
+		"/Users/Stefan/Documents/Projects/todo/www/css/style.css",
+		"/Users/Stefan/Documents/Projects/todo/platforms/ios/www/index.html",
+		"/Users/Stefan/Documents/Projects/todo/platforms/android/assets/www/index.html",
+		"/Users/Stefan/Documents/Projects/todo/platforms/ios/build/emulator/todo.app/www/index.html",
+		"/Users/Stefan/Documents/Projects/todo/hooks/before_platform_add/init_directories.js",
+		"/Users/Stefan/Documents/Projects/todo/ionic.project",
+		"/Users/Stefan/Documents/Projects/todo/todo.sublime-project",
 		"/Users/Stefan/Documents/Projects/myApp/gulpfile.js",
 		"/Users/Stefan/Documents/Projects/lovetap/client/views/user/settings.js",
 		"/Users/Stefan/Documents/Projects/lovetap/both/router.js",
-		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/Stefan/Documents/Projects/lovetap/client/views/shared/footer.html",
 		"/Users/Stefan/Documents/Projects/lovetap/public/lib/intlTelInput_Utils.js",
 		"/Users/Stefan/Documents/Projects/lovetap/settings.json",
@@ -487,20 +506,11 @@
 		"/Users/Stefan/Documents/Projects/pstracker/public/fonts/fontawesome/FontAwesome.otf",
 		"/Users/Stefan/Documents/Projects/pstracker/public/fonts/fontawesome/font-awesome.css",
 		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-		"/Users/Stefan/Documents/Projects/pstracker/client/js/lib/bootstrap.min.js",
-		"/Users/Stefan/Documents/Projects/pstracker/client/css/lib/custom.css",
-		"/Users/Stefan/Documents/Projects/pstracker/pstracker.html",
-		"/Users/Stefan/Documents/Projects/pstracker/pstracker.js",
-		"/Users/Stefan/Documents/Projects/pstracker/pstracker.sublime-project",
-		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/Stefan/Documents/testproject/asfd/jsakfld.js",
-		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
-		"/Users/Stefan/Documents/testproject/test.sublime-project"
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -731,6 +741,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"index.html",
+				"www/index.html"
+			],
 			[
 				"router",
 				"both/router.js"
